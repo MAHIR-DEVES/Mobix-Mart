@@ -1,10 +1,12 @@
+import { Outlet } from 'react-router';
 import './App.css';
 
 function App() {
   return (
     <>
-      <h1 className="text-2xl"> hello </h1>
-      <button className="btn btn-accent">hey</button>
+      <h3>nab\v\\\</h3>
+      <Outlet></Outlet>
+      <h3>footer</h3>
     </>
   );
 }

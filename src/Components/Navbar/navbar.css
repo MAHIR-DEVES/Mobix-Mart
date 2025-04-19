@@ -1,0 +1,7 @@
+li a {
+  font-weight: bold;
+}
+li a.active {
+  color: blue;
+  font-weight: bold;
+}
